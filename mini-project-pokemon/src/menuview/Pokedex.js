@@ -49,7 +49,7 @@ class Pokedex extends Component {
                                         <td>{entry_number}</td>
                                         <td>{pokemon_species.name}</td>
                                         <td>national</td>
-                                        <td><Button variant="primary" onClick={handleShow}>Gotta Catch Em'All!</Button></td>
+                                        <td><Button variant="primary">Gotta Catch Em'All!</Button></td>
                                     </tr>
                                 )
                             }) : null
