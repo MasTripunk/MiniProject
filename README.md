@@ -9,14 +9,14 @@ Just another MiniProject
 ### Step by Step
 1. Clone this repository (using ssh / https), example (ssh, only if your public key already granted by me) :
 ```
-**"git clone git@github.com:MasTripunk/MiniProject.git"**
+git clone git@github.com:MasTripunk/MiniProject.git
 ```
 2. Change dir to **"MiniProject/mini-project-pokemon"**
 3. Install all dependencies, with syntax :
 ```
-**"npm install"**
+npm install
 ```
 4. Start node project, with syntax :
 ```
-**"npm start"**
+npm start
 ```
